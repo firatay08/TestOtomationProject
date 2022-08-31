@@ -1,0 +1,10 @@
+{
+  "arama kutusu": "//input[@placeholder='Ürün, Marka Arayın']",
+  "urun": "//*[@id='productList']/div[?]/div/div/div[1]/a",
+  "sepete ekle": "//*[@id='addBasket']",
+  "sepetim": "//a[@title='Sepetim']",
+  "sil": "//*[@id='removeCartItemBtn0-key-0']",
+  "fiyat": "//*[@id='priceNew']",
+  "urun bilgisi": "/html/body/div[3]/div[1]/div[1]/div[2]/div[2]/h1/span",
+  "beden": "(//*[@id='sizes']/div/span[not(contains(@class,'m-variation__item -disabled'))] )[1]"
+}
